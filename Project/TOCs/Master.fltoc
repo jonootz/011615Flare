@@ -33,7 +33,7 @@
       Link="/Content/Sample Topics/Resources- links from.htm" />
     <TocEntry
       Title="links from"
-      Link="/Content/Products/Product A/Product A- links from.htm" />
+      Link="/Content/Products/Product A/NewFolder/Product A- links from.htm" />
     <TocEntry
       Title="links from"
       Link="/Content/Resources/Accord- links from.htm" />
