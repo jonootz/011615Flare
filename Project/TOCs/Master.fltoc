@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -6,7 +6,7 @@
     Link="/Content/Welcome.htm" />
   <TocEntry
     Title="How to Change the Logo in the Skin"
-    Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
+    Link="/Content/ChangeLogoInSkin.htm" />
   <TocEntry
     Title="Editing the Master Page"
     Link="/Content/Sample Topics/EditingMasterPage.htm" />
