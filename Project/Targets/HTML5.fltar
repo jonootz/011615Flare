@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -10,4 +10,5 @@
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   EnableFeedbackService="false"
   LiveHelpServer=""
-  LiveHelpKey=""></CatapultTarget>
+  LiveHelpKey=""
+  GetLatestBeforeCompile="true"></CatapultTarget>
