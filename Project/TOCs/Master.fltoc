@@ -5,9 +5,6 @@
     Title="Welcome"
     Link="/Content/Welcome.htm" />
   <TocEntry
-    Title="How to Change the Logo in the Skin"
-    Link="/Content/ChangeLogoInSkin.htm" />
-  <TocEntry
     Title="Editing the Master Page"
     Link="/Content/Sample Topics/EditingMasterPage.htm" />
   <TocEntry
@@ -22,4 +19,7 @@
       Title="[%=MyVariables.ProductA%] Article 3"
       Link="/Content/Products/Product A/Article3.htm" />
   </TocEntry>
+  <TocEntry
+    Title="links from"
+    Link="/Content/Products/links from.htm" />
 </CatapultToc>
