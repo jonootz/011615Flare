@@ -21,21 +21,21 @@
   </TocEntry>
   <TocEntry
     Title="links from"
-    Link="/Content/Products/links from.htm">
+    Link="/Content/Products/Products- links from.htm">
     <TocEntry
       Title="links from"
-      Link="/Content/links from.htm" />
+      Link="/Content/Content- links from.htm" />
     <TocEntry
       Title="links from"
-      Link="/Content/Sample Topics/links from.htm" />
+      Link="/Content/Sample Topics/Sample Topics- links from.htm" />
     <TocEntry
       Title="links from"
-      Link="/Content/Resources/links from.htm" />
+      Link="/Content/Resources/Resources- links from.htm" />
     <TocEntry
       Title="links from"
-      Link="/Content/Products/Product A/links from.htm" />
+      Link="/Content/Products/Product A/Product A- links from.htm" />
     <TocEntry
       Title="links from"
-      Link="/Content/Accord/links from.htm" />
+      Link="/Content/Accord/Accord- links from.htm" />
   </TocEntry>
 </CatapultToc>
